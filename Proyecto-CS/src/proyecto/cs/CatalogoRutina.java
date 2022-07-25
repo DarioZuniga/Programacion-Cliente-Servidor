@@ -9,5 +9,9 @@ package proyecto.cs;
  * @author josed
  */
 public class CatalogoRutina {
+    String descripciónrutina;
+//máquinasutilizar -debe buscarlo en la lista de máquinas-,
+    double tiempoduración;
+    Boolean estado;
     
 }
